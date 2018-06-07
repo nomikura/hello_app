@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ruby on Rails Tutorial
 
 ## "hello, world!"
@@ -27,6 +28,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# hello_app
+ruby on rails tutorial chapter 1.
+>>>>>>> origin/master
 =======
 # hello_app
 ruby on rails tutorial chapter 1.
